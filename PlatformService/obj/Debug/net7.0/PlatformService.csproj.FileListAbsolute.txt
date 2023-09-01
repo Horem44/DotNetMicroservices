@@ -76,3 +76,4 @@ B:\CSharp Education\Microservices\PlatformService\obj\Debug\net7.0\refint\Platfo
 B:\CSharp Education\Microservices\PlatformService\obj\Debug\net7.0\PlatformService.pdb
 B:\CSharp Education\Microservices\PlatformService\obj\Debug\net7.0\PlatformService.genruntimeconfig.cache
 B:\CSharp Education\Microservices\PlatformService\obj\Debug\net7.0\ref\PlatformService.dll
+B:\CSharp Education\Microservices\PlatformService\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "q7DHLF2ClpIu45vT1perUFASL08EhqA7mxDzcNS2LvBfy0ygHA16V++AiwzokVbiFxIzYAk1qbJjdEmD988iIQ==",
+  "dgSpecHash": "hZXTx4YkaS0jzyNvfWlsTuDDcdi30DlrpDNewsOJ9i2Sxro7HQ5a1nk3z+6cjSSGDVonJR/V8kvmSC8U7ShW/w==",
   "success": true,
   "projectFilePath": "B:\\CSharp Education\\Microservices\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dlyha\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\dlyha\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\dlyha\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\dlyha\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\dlyha\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
