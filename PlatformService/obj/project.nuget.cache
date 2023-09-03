@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hZXTx4YkaS0jzyNvfWlsTuDDcdi30DlrpDNewsOJ9i2Sxro7HQ5a1nk3z+6cjSSGDVonJR/V8kvmSC8U7ShW/w==",
+  "dgSpecHash": "0PfsyufF8Rjdmc66YCceJ3ZDCktdOTrP/CoMwTpG961B5Mm07X31B1NyssHCvIB4Hkgj+ykzBUcFZ4OhBzqIWQ==",
   "success": true,
   "projectFilePath": "B:\\CSharp Education\\Microservices\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
@@ -44,6 +44,7 @@
     "C:\\Users\\dlyha\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\dlyha\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\dlyha\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\dlyha\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
     "C:\\Users\\dlyha\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\dlyha\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\dlyha\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",

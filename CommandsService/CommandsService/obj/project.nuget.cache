@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Xtp5OWWgeCeRmkGKFkyXSsk0FAtbRcjGZlg/OCgFDYoqwxftLDHUw1f5EkPyIdYZjJ4SW2a5j8kO75Wf/5epA==",
+  "success": true,
+  "projectFilePath": "B:\\CSharp Education\\Microservices\\CommandsService\\CommandsService\\CommandsService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dlyha\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
